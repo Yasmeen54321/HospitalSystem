@@ -1,7 +1,0 @@
-C:\Users\heiam\source\repos\ProblemShapes\ProblemShapes\bin\Debug\ProblemShapes.exe.config
-C:\Users\heiam\source\repos\ProblemShapes\ProblemShapes\bin\Debug\ProblemShapes.exe
-C:\Users\heiam\source\repos\ProblemShapes\ProblemShapes\bin\Debug\ProblemShapes.pdb
-C:\Users\heiam\source\repos\ProblemShapes\ProblemShapes\obj\Debug\ProblemShapes.csprojAssemblyReference.cache
-C:\Users\heiam\source\repos\ProblemShapes\ProblemShapes\obj\Debug\ProblemShapes.csproj.CoreCompileInputs.cache
-C:\Users\heiam\source\repos\ProblemShapes\ProblemShapes\obj\Debug\ProblemShapes.exe
-C:\Users\heiam\source\repos\ProblemShapes\ProblemShapes\obj\Debug\ProblemShapes.pdb
