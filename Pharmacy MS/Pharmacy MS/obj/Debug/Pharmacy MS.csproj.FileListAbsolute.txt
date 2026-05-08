@@ -1,7 +1,0 @@
-C:\Users\heiam\source\repos\Pharmacy MS\Pharmacy MS\bin\Debug\Pharmacy MS.exe.config
-C:\Users\heiam\source\repos\Pharmacy MS\Pharmacy MS\bin\Debug\Pharmacy MS.exe
-C:\Users\heiam\source\repos\Pharmacy MS\Pharmacy MS\bin\Debug\Pharmacy MS.pdb
-C:\Users\heiam\source\repos\Pharmacy MS\Pharmacy MS\obj\Debug\Pharmacy MS.csprojAssemblyReference.cache
-C:\Users\heiam\source\repos\Pharmacy MS\Pharmacy MS\obj\Debug\Pharmacy MS.csproj.CoreCompileInputs.cache
-C:\Users\heiam\source\repos\Pharmacy MS\Pharmacy MS\obj\Debug\Pharmacy MS.exe
-C:\Users\heiam\source\repos\Pharmacy MS\Pharmacy MS\obj\Debug\Pharmacy MS.pdb
