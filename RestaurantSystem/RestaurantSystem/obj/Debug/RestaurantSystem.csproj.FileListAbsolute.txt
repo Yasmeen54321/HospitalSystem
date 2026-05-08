@@ -1,0 +1,7 @@
+C:\Users\heiam\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\RestaurantSystem.exe.config
+C:\Users\heiam\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\RestaurantSystem.exe
+C:\Users\heiam\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\RestaurantSystem.pdb
+C:\Users\heiam\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.csprojAssemblyReference.cache
+C:\Users\heiam\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\heiam\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.exe
+C:\Users\heiam\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.pdb
