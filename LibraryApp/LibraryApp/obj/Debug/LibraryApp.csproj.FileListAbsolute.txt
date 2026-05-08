@@ -1,7 +1,0 @@
-C:\Users\heiam\source\repos\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
-C:\Users\heiam\source\repos\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
-C:\Users\heiam\source\repos\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
-C:\Users\heiam\source\repos\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csprojAssemblyReference.cache
-C:\Users\heiam\source\repos\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
-C:\Users\heiam\source\repos\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
-C:\Users\heiam\source\repos\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
